@@ -14,9 +14,6 @@ mastite bovina e alertar o pecuarista no celular.
   para indicadores de rebanho.
 - **Relatórios para o produtor:** resumos por lote, pensados para a rotina da fazenda.
 
-> O produto está em desenvolvimento. Os indicadores ainda não substituem avaliação
-> veterinária.
-
 ## Contato
 
 [wimilk.ia.br](https://wimilk.ia.br) · Instagram [@wimilk_ofc](https://instagram.com/wimilk_ofc)
